@@ -21,7 +21,7 @@ git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 # Add the deploy remote
 git remote add deploy "https://token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 
-ghp-import build/html/ --push --force --no-jekyll --remote deploy
+ghp-import build/html/ --push --force --no-jekyll --remote deploy --cname handbook.rootaccess.org
 
 # exit cleanly
 exit 0
