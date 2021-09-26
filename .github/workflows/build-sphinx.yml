@@ -12,31 +12,33 @@ jobs:
     container: debian:buster-slim
 
     steps:
-      - uses: actions/checkout@v2
+      - name: System update
+        run: |
+          apt-get update
+          apt-get install -y git
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
         with:
-          python-version: '3.9'
+          python-version: '3.x'
+
       - name: Display Python version
-        run: python -c "import sys; print(sys.version)"
+        run: |
+          python -c "import sys; print(sys.version)"
+          pwd
+          ls -hal
 
-    - name: Prereqs
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        apt-get update
-        apt-get install -y git
-        git clone --depth 1 "https://token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
-      shell: bash
+      - name: Python dependencies
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          pip install -r requirements.txt
+        shell: bash
 
-    - name: Python dependencies
-      run: |
-        python -m pip install --upgrade pip setuptools wheel
-        pip install -r requirements.txt
-      shell: bash
-
-    - name: Execute script to build the handbook and update gh-pages.
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: "./gh-build.sh"
-      shell: bash
+      - name: Execute script to build the handbook and update gh-pages.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: "./gh-build.sh"
+        shell: bash
