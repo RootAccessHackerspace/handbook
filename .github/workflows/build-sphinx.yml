@@ -14,20 +14,20 @@ jobs:
       - name: System update
         run: |
           apt-get update
-          apt-get install -y build-essential git python3 python3-dev
+          apt-get install -y build-essential git python3 python3-dev python-is-python3
 
       - name: Checkout
         uses: actions/checkout@v2
 
       - name: Display Python version
         run: |
-          python3 -c "import sys; print(sys.version)"
+          python -c "import sys; print(sys.version)"
           pwd
           ls -hal
 
       - name: Python dependencies
         run: |
-          python3 -m pip install --upgrade pip setuptools wheel
+          python -m pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
         shell: bash
 
