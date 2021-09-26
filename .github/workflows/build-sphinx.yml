@@ -27,5 +27,5 @@ jobs:
     - name: Execute script to build our documentation and update pages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: "gh-build.sh"
+      run: "./gh-build.sh"
       shell: bash
