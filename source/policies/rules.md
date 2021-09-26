@@ -9,13 +9,13 @@ Follow the rules and safety guidelines we have, use common sense, and don't be t
 
 The "Don't be a jerk" rule. For more information, including expected behavior, anti-harrassment policy, and details on reporting conduct violations, see the {doc}`/policies/conduct`.
 
-## 2. Don't do anything illegal.
-
-Root Access does not condone any illegal activities. Don't break the law in the space, using the space's equipment, or with something you built at the space.
-
-## 3. Safety rules are written in blood. Avoid blood.
+## 2. Safety rules are written in blood. Avoid blood.
 
 Follow our {doc}`/safety/guidelines` and {doc}`/safety/tools` at all times, and encourage others to do the same.
+
+## 3. Don't do anything illegal.
+
+Root Access does not condone any illegal activities. Don't break the law in the space, using the space's equipment, or with something you built at the space. We're not a space for [black hats](https://en.wikipedia.org/wiki/Black_hat_(computer_security)); at most, our hats are lighter shades of gray.
 
 ## 4. Tools are for members.
 
