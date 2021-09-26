@@ -6,8 +6,9 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  build_handbook:
     runs-on: ubuntu-latest
+    container: debian:buster-slim
 
     steps:
       - name: System update
