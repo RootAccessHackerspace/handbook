@@ -21,7 +21,7 @@ jobs:
 
       - name: Display Python version
         run: |
-          python -c "import sys; print(sys.version)"
+          python3 -c "import sys; print(sys.version)"
           pwd
           ls -hal
 
