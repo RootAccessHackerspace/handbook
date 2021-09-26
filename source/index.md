@@ -35,7 +35,7 @@ Root Access is a community that runs a hackerspace. You buy a monthly membership
 
 This handbook describes policies and procedures that keep the hackerspace humming along. The core of this is simply safety and sharing. We want the members to be safe and to share what we have in a way that is equitable and sustainable.
 
-If you'd like to learn more about Root Access – how we operate, what's going on, speicifcs on tools, etc – you'll probably want to spend some time at wiki.rootaccess.org.
+If you'd like to learn more about Root Access – how we operate, what's going on, specifics on tools, etc – you should check out our community wiki: wiki.rootaccess.org.
 
 Contact Us
 ----------
