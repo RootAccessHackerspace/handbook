@@ -6,10 +6,8 @@ on:
     branches: [ main ]
 
 jobs:
-
-  build_docs_job:
+  build:
     runs-on: ubuntu-latest
-    container: debian:buster-slim
 
     steps:
       - name: System update
@@ -23,10 +21,12 @@ jobs:
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
         with:
-          python-version: '3.8'
+          python-version: '3.x'
 
       - name: Display Python version
         run: |
+          which python
+          which python3
           python -c "import sys; print(sys.version)"
           pwd
           ls -hal
