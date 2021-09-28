@@ -9,30 +9,36 @@ Follow the rules and safety guidelines we have, use common sense, and don't be t
 
 The "Don't be a jerk" rule. For more information, including expected behavior, anti-harrassment policy, and details on reporting conduct violations, see the {doc}`/policies/conduct`.
 
-## 2. Safety rules are written in blood. Avoid blood.
+## 2. Don't do anything illegal.
 
-Follow our {doc}`/safety/guidelines` and {doc}`/safety/tools` at all times, and encourage others to do the same.
+Root Access does not condone any illegal activities. Don't break the law in the space, using the space's equipment, or with something you built at the space. We are not a space for [black hats](https://en.wikipedia.org/wiki/Black_hat_(computer_security)) or illegal computer hacking.
 
-## 3. Don't do anything illegal.
+## 3. Safety rules are written in blood. Avoid blood.
 
-Root Access does not condone any illegal activities. Don't break the law in the space, using the space's equipment, or with something you built at the space. We're not a space for [black hats](https://en.wikipedia.org/wiki/Black_hat_(computer_security)); at most, our hats are lighter shades of gray.
+Follow our {doc}`/safety/guidelines` and {doc}`/safety/tools` at all times, and encourage others to do the same. Materials of a dangerous, flammable, or explosive character that might unreasonably increase the danger of a fire or explosion are strictly prohibited.
 
-## 4. Tools are for members.
+## 4. Tools are for members, so take care of 'em.
 
-Some tools at Root Access are dangerous, expensive, fragile, or some combination of the three. As such, only members may generally use the tools and equipment at the hackerspace.
-
-Members are expected to know the risks of the tools they're using and to not use anything they haven't been trained on. Additionally use of all such equipment is at the members own risk and they agree not to hold Root Access or any other members, instructors, directors or officers liable for injury or damage caused by using such equipment.
+Some tools at Root Access are dangerous, expensive, fragile, or some combination thereof. As such, only members may generally use the tools and equipment at the hackerspace. Allowing a guest or non-member to use equipment without the express permission of Root Access leadership is forbidden.
 
 Members must also make every effort to ensure tools are not damaged in their use. They also understand that if they break something they may be responsible for the cost of replacement or repair.
 
-## 5. Pay your dues.
+## 5. Members must pay their dues.
 
 Root Access exists because of memberships; if members don't pay their dues, we don't exist. Membership dues are expected to be paid in full, on time, each month. If you're having trouble or need an extension, let us know and we can work something out.
 
-## 6. You must abide.
+## 6. Members must abide.
 
-Members agree to abide by the rules and guidelines set forth by this handbook. We try to be a respectful group of grown-ups because every rule means more administrative overhead for our leadership and volunteers. More overhead means less time to be makers. Less time to be makers makes us cranky.
+We try to be a respectful group of grown-ups because every rule means more administrative overhead for our leadership and volunteers. More overhead means less time to be makers. Less time to be makers makes us cranky.
+
+Every member is required to sign our {download}`Member Handbook Acknowledgement </_static/Member-Handbook-Acknowledgement.pdf>`, stating that this handbook has been provided to you and that you agree to abide by the rules and guidelines therein.
+
+## 7. Release of Liability
+
+Members are expected to know the risks of the tools they're using and to not use anything they haven't been trained on. Additionally use of all such equipment is at the members own risk and they agree not to hold Root Access or any other members, instructors, directors or officers liable for injury or damage caused by using such equipment.
+
+Members and their guests are required to sign our {download}`Liability Waiver </_static/Liability-Waiver.pdf>`.
 
 ---
 
-Repeated or flagrant violations of these rules may result in consequences including fines, temporary suspension of membersip, or permanent expulsion from the hackerspace.
+Singular, repeated, or flagrant violations of these rules may result in consequences including fines, temporary suspension of membersip, or permanent expulsion from the hackerspace, depending on severity of the violation and at the discression of Root Access leadership.

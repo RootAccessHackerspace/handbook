@@ -12,17 +12,11 @@ Benefits
 Membership Levels
 -----------------
 
-### Supporting
-
-_Monthly: $9_
-
-Perfect for folks who regulary attend any public meetups and would like to chip in. This level does not grant regular access to the space or any tools within.
-
 ### Casual
 
 _Monthly: $19_
 
-Aimed at folks who need infrequent or limited access to the space. Casual members have access to the shared workspace and limited access to the crafting and electronics areas. The workshop and any other equipment that requires a ROOT class to operate are off limits.
+Aimed at folks who need limited access to the space or who simply attend free meetups and want to show their support. Casual members have access to the shared workspace and limited access to the crafting and electronics areas. The workshop and any other equipment that requires a ROOT class to operate are off limits.
 
 ### Discounted
 
@@ -53,7 +47,7 @@ Membership is open to anyone age 18 and over, and the process for joining is sim
     * {download}`Member Handbook Acknowledgement </_static/Member-Handbook-Acknowledgement.pdf>`
 3. That's it!
 
-Once you have signed up for a membership and signed the necessary forms, you are now a member of the hackerspace and you may use our facilities within the boundaries set by this handbook.
+Once you have signed up for a membership and completed the necessary forms, you are now a member of the hackerspace and you may use our facilities within the boundaries set by this handbook.
 
 Welcome to the club!
 
