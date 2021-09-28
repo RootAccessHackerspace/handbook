@@ -15,7 +15,7 @@ Root Access does not condone any illegal activities. Don't break the law in the 
 
 ## 3. Safety rules are written in blood. Avoid blood.
 
-Follow our {doc}`/safety/guidelines` and {doc}`/safety/tools` at all times, and encourage others to do the same. Materials of a dangerous, flammable, or explosive character that might unreasonably increase the danger of a fire or explosion are strictly prohibited.
+Follow our {doc}`/safety/guidelines` and {doc}`/safety/tools` at all times, and encourage others to do the same. Additionally, for everyone's safety, firearms and ammunition of any kind, as well as materials of a dangerous, flammable, or explosive character that might unreasonably increase the danger of a fire or explosion, are strictly prohibited at the hackerspace.
 
 ## 4. Tools are for members.
 
@@ -41,4 +41,4 @@ Members and their guests are required to sign our {download}`Liability Waiver </
 
 ---
 
-Singular, repeated, or flagrant violations of these rules may result in consequences including fines, temporary suspension of membersip, or permanent expulsion from the hackerspace, depending on the severity of the violation and at the discression of Root Access leadership. Any member who is suspended or expelled for rules violations will not recieve a refund for unused membership time. Any person expelled from a class for rules violations will not recieve a refund on class fees.
+Singular, repeated, or flagrant violations of these rules may result in consequences including fines, temporary suspension of membersip, or permanent expulsion from the hackerspace, depending on the severity of the violation and at the discression of Root Access leadership. Any member who is suspended or expelled for rules violations will not receive a refund for unused membership time. Any person expelled from a class for rules violations will not receive a refund on class fees.
