@@ -41,4 +41,4 @@ Members and their guests are required to sign our {download}`Liability Waiver </
 
 ---
 
-Singular, repeated, or flagrant violations of these rules may result in consequences including fines, temporary suspension of membersip, or permanent expulsion from the hackerspace, depending on severity of the violation and at the discression of Root Access leadership.
+Singular, repeated, or flagrant violations of these rules may result in consequences including fines, temporary suspension of membersip, or permanent expulsion from the hackerspace, depending on severity of the violation and at the discression of Root Access leadership. Any member who is suspended or expelled for rules violations will not recieve a refund for unused membership time. Any person expelled from a class for rules violations will not recieve a refund on class fees.
