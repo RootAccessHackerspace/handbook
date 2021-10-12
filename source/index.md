@@ -79,6 +79,17 @@ Twitter
 Yelp
    : yelp.com/biz/root-access-hackerspace-fresno
 
+---
+
+Colophon
+--------
+
+This handbook is built with [Sphinx](https://www.sphinx-doc.org). We're using the [Read The Docs theme](https://sphinx-rtd-theme.readthedocs.io/en/stable/) and [MyST](https://myst-parser.readthedocs.io/en/latest/) for markdown parsing. Every commit triggers a [Github Action](https://github.com/features/actions) to build and deploy the handbook to [Github Pages](https://pages.github.com/).
+
+[View the source code on Github.](https://github.com/RootAccessHackerspace/handbook)
+
+Many thanks to [Maker Nexus](https://www.makernexus.com/) in Sunnyvale, CA for licensing their own handbook under a Creative Commons license. Much of what's in our handbook was seeded from theirs.
+
 ```{toctree}
 :hidden:
 
