@@ -18,6 +18,11 @@ jobs:
       - name: Python Setup
         uses: actions/setup-python@v3
 
+      - name: System update
+        run: |
+          apt-get update
+          apt-get install -y build-essential git python3 python3-pip python3-dev
+
       - name: Display Python version
         run: |
           python3 -c "import sys; print(sys.version)"
