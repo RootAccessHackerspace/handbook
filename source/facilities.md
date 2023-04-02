@@ -63,7 +63,7 @@ Our tools and equipment include, but are not limited to:
 * Various saws and sanders
 * Bench and angle grinders
 * Drill press
-* Benchtop CNC
+* CNC machine
 * MIG welder
 
 **Printing**
@@ -76,5 +76,3 @@ Consumables
 -----------
 
 Many of the tools at Root Access use tooling that wears out (consumables). These include things like drill bits, saw blades, dremel bits, etc. We try to keep basic tooling available for most tools, but we cannot supply tooling for every possible project. It is important that if something is broken, worn down, or accidentally abused that you inform leadership right away. We try to provide the basics and may have replacements. If you are working with a costly material or need high precision, you will be well served by bringing your own tooling.
-
-

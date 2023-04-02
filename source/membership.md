@@ -12,29 +12,23 @@ Benefits
 Membership Levels
 -----------------
 
+### Regular
+
+_Monthly: $59, Annual: $649_
+
+Regular members have access to the space any time we are open, and may use any of our tools (assuming any necessary safety training has been completed).
+
+### Discounted
+
+_Monthly: $29, Annual: $319_
+
+This is the same as our regular membership, but with a reduced price. This membership level is aimed at students, teachers, veterans, folks with disabilities (including invisible disabilities), and immediate family of existing regular or discounted members. We use the honor system here, and assume that anyone on the discounted membership has a valid reason, so please don't abuse this.
+
 ### Casual
 
 _Monthly: $19_
 
 Aimed at folks who need limited access to the space or who simply attend free meetups and want to show their support. Casual members have access to the shared workspace and limited access to the crafting and electronics areas. The workshop and any other equipment that requires a ROOT class to operate are off limits.
-
-### Discounted
-
-_Monthly: $29, Bi-Annual: $169, Annual: $319_
-
-This is the same as our regular membership, but with a reduced price. This membership level is aimed at students, teachers, veterans, folks with disabilities (including invisible disabilities), and immediate family of existing regular or discounted members. We use the honor system here, and assume that anyone on the discounted membership has a valid reason, so please don't abuse this.
-
-### Regular
-
-_Monthly: $59, Bi-Annual: $339, Annual: $649_
-
-Regular members have access to the space any time we are open, and may use any of our tools (assuming any necessary safety training has been completed).
-
-### Superuser
-
-_Monthly: $99, Bi-Annual: $549, Annual: $1,089_
-
-Superusers have all the tool access of regular members, with one additional perk: superusers are keyholders, have 24-hour access to the space, and are trained on how to open and close the space. Access to this membership level is invite only – members must be in good standing for at least 90 days and must earn the trust of Root Access leadership by taking an active roll in organizing and maintaining the space.
 
 Becoming a Member
 -----------------

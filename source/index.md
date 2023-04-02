@@ -12,9 +12,10 @@ Member Handbook
 
 ```{rst-class} wy-text-large
 _a.k.a., How do we Hackerspace?_
+```
 
-<!-- ``user@localhost:~$ man rootaccess`` -->
-
+```bash
+user@hackerspace:~$ man rootaccess
 ```
 
 Welcome!
@@ -95,9 +96,17 @@ Many thanks to [Maker Nexus](https://www.makernexus.com/) in Sunnyvale, CA for l
 
 facilities
 membership
+```
+
+```{toctree}
+:caption: Rules & Policies
+:hidden:
+
 policies/rules
 policies/conduct
+policies/classes
 policies/photography
+policies/privacy
 ```
 
 ```{toctree}
