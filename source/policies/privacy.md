@@ -1,12 +1,10 @@
-Privacy Policy
-==============
+# Privacy Policy
 
 Your privacy is important to us. It is Root Access' policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, [rootaccess.org](https://rootaccess.org/), and other sites we own and operate.
 
 This policy is effective as of 13 January 2022 and was last updated on 13 January 2022.
 
-Information We Collect
-----------------------
+## Information We Collect
 
 Information we collect includes both information you knowingly and actively provide us when using or participating in any of our services and promotions, and any information automatically sent by your devices in the course of accessing our products and services.
 

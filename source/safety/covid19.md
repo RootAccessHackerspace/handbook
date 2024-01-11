@@ -1,5 +1,4 @@
-COVID-19
-========
+# COVID-19
 
 Root Access takes a serious approach to COVID-19 safety. The following rules are in place to ensure our community can safely gather and work on their projects.
 

@@ -1,5 +1,4 @@
-Code of Conduct
-===============
+# Code of Conduct
 
 Like the technical community as a whole, the Root Access team and community is made up of a mixture of professionals and hobbyists, working on every aspect of the mission – including mentorship, teaching, connecting people, and building cool stuff.
 
@@ -9,8 +8,7 @@ This isn't an exhaustive list of things that you can't do. Rather, take it in th
 
 This code of conduct applies to all spaces managed by Root Access. This includes the hackerspace itself, outreach events, Slack, social media, and any other forums created by the space which the community uses for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
-Expectations
-------------
+## Expectations
 
 **Be friendly and patient.**
 
@@ -34,8 +32,7 @@ Be careful in the words that you choose. We are a community of professionals, an
 
 **During disagreements, try to be understanding.** Disagreements, both social and technical, happen all the time and Root Access is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we're different. The strength of Root Access comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
-Anti-Harassment Policy
-----------------------
+## Anti-Harassment Policy
 
 Harassment includes offensive verbal comments related to race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussion, inappropriate contact, and unwelcome sexual attention.
 
@@ -47,8 +44,7 @@ Any member permanently expelled for Code of Conduct violations will immediately 
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Root Access leadership as soon as possible. They will address the issue as soon as they are able.
 
-Reporting Guidelines
---------------------
+## Reporting Guidelines
 
 If you believe someone is violating the code of conduct we ask that you report it to Root Access by emailing conduct@rootaccess.org. **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -73,8 +69,7 @@ Root Access prioritizes marginalized people's safety over privileged people's co
 * Communicating in a 'tone' you don't find congenial
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
-What happens after you file a report?
--------------------------------------
+## What happens after you file a report?
 
 You will receive an email from the Root Access Code of Conduct committee acknowledging receipt immediately. We promise to acknowledge receipt within 24 hours (and will aim for much quicker than that).
 
@@ -102,8 +97,7 @@ Once we've determined our final action, we'll contact the original reporter to l
 
 Finally, the committee will make a report on the situation to the Root Access board. The board may choose to a public report of the incident.
 
-What if your report concerns a possible violation by a committee member?
-------------------------------------------------------------------------
+## What if your report concerns a possible violation by a committee member?
 
 If your report concerns a current member of the Code of Conduct committee, you may not feel comfortable sending your report to the committee, as all members will see the report.
 

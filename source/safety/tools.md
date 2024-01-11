@@ -1,34 +1,28 @@
-Tool and Equipment Safety
-=========================
+# Tool and Equipment Safety
 
 Tool safety is important. Failure to follow safety rules can result in suspension of membership.
 
-Assumption of Competence
-------------------------
+## Assumption of Competence
 
 Most of our basic tools do not have a training requirement and, as part of your membership, it is assumed that if you're using one of these tools then you have enough skill to use it without damaging yourself, others, or the tool itself.
 
 Basic ability does not always imply skilled use, however, so it is still recommended you look into the "proper" way to use a tool. As with anything, if you have questions, ask!
 
-The Right Tool
---------------
+## The Right Tool
 
 It's important to use the right tool in order to complete a job safely, quickly, and efficiently. Expect to hear this repeated a few more times to ensure it's a basic habit of self-inspection and safety. Using the right tool results in better quality in the final product. Please don't hesitate to discuss with others to ensure you are using the right tools for your projects.
 
-Training Requirements
----------------------
+## Training Requirements
 
 Some of the larger, more complex, more expensive, or more dangerous tools will generally have training requirements to use them. These trainings provide basic operational and safety instructions, so that you know how to use the tool without harming it or yourself. You may not be able to get training _on demand_ (e.g. at the last minute), so it's always advisable to arrange to get trained as soon as you're able for future use.
 
-Damage and Replacement
-----------------------
+## Damage and Replacement
 
 Root Access assumes that, unless there's an explicit training requirement, you are skilled enough to use the tool you wish to use. If a member damages or destroys a tool through misuse, that member will be expected to contribute to its replacement or repair cost, either in full or in part, depending on the situation. Damage or destruction through normal use can be considered wear and tear, and will not usually be directed at the last user (though a contribution to replacement is normal and appreciated).
 
 For example, a chisel handle breaking when being used to carve wood with a wood-mallet would likely be considered the tool wearing out and the space deciding on replacement. However, a chisel handle breaking because you used it as a crowbar to tear open a toaster is your fault, and you'll be expected to replace it yourself.
 
-Hand Tool Safety
-----------------
+## Hand Tool Safety
 
 These tools, while they do not involve the same dangers as power machinery, should be used cautiously. Often, the type of injury sustained while misusing these tools are small cuts and lacerations – sometimes requiring stitches. Please observe the following guidelines while using hand tools.
 
@@ -49,9 +43,7 @@ The most common hand tool accidents are caused by the following:
 * Think about the direction your energy is going while performing an operation. If you are holding material in your hands, be sure the action is going away from your body. Better yet, clamp the material in a vise or to the surface of a workbench. When using a chisel, blade saws, knives and other tools always chip or cut away from yourself and away from aisleways and other people.
 * Look around before you start, with the direction of materials or tools are heading in the direction of. Think through a procedure before you attempt it. Many times, we become complacent or are rushing through a job – that is when accidents are most likely to occur.
 
-
-Hand-held Power Tools and Stationary Machines
----------------------------------------------
+## Hand-held Power Tools and Stationary Machines
 
 In addition to all the safety for hand-held tools, power tools and stationary machines require additional levels of vigilance and mitigations.
 
@@ -109,8 +101,7 @@ These accidents are often caused by the following:
   * Before clearing jams or blockages, turn off and disconnect from power source. Do not use your hand to clear jams or blockages, use an appropriate tool.
   * Before making adjustments, turn off and disconnect from power source. Use the correct tools to make adjustments.
 
-Safety and Learning Never Ends
-------------------------------
+## Safety and Learning Never Ends
 
 While this handbook does cover numerous safety issues, it is not a replacement for time spent practicing safe work habits at the hackerspace.
 

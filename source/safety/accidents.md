@@ -1,26 +1,22 @@
-Accidents and Injuries
-======================
+# Accidents and Injuries
 
 ```{important}
 **In the event of a serious accident or injury, make sure you are personally safe, alert others, and call 911 immediately.**
 ```
 
 ```{note}
-The first aid kit and eye wash are mounted on the wall to the right of the laser cutter.
+First aid kits and eye wash stations are mounted in several places around the space. For an up-to-date listing, check the [Health and Safety](https://rootaccess.org/wiki/Health_and_Safety/) page on the wiki.
 ```
 
-Non-Injury Accidents
---------------------
+## Non-Injury Accidents
 
 In the event of accidents causing machine damage or other unsafe events, but not resulting in injury, you must report the accident to Root Access leadership. They will work with those involved to address the issues that led to the accident and determine next actions and any required remediation for the machine and/or machine operator involved.
 
-Injury Accidents
-----------------
+## Injury Accidents
 
 In the event of an accident resulting in injury, you must notify Root Access leadership immediately, and established first aid procedures should be followed. The Executive Director will work with those involved to address the issues that led to the accident and determine next actions and any required remediation for the machine and/or machine operator involved. Injury causing accidents requiring outside medical attention will also be recorded and reviewed by the Board of Directors.
 
-Remediation Actions
--------------------
+## Remediation Actions
 
 Any remediation actions will be relayed to the appropriate persons as soon as possible.
 

@@ -1,5 +1,4 @@
-Safety Guidelines
-=================
+# Safety Guidelines
 
 The safety of members, staff, instructors, and guests is the prime consideration in every activity. The goal of these guidelines is to provide actionable items to prevent accidents or injuries to those inside the hackerspace.
 
@@ -13,8 +12,7 @@ The success of this plan depends upon the complete cooperation and support of ev
 The first aid kit and eye wash are mounted on the wall to the right of the laser cutter.
 ```
 
-The Safety of You and Those Around You
---------------------------------------
+## The Safety of You and Those Around You
 
 Please always maintain situational awareness to ensure there is no potential to injure yourself or others.
 
@@ -40,8 +38,7 @@ Safety takes many forms, both physical and mental, and you are responsible for b
 
 Failure to meet safety expectations can result in immediate removal, suspension and/or termination of your membership.
 
-Shared Safety Responsibility
-----------------------------
+## Shared Safety Responsibility
 
 The incorrect use of a machine can endanger everyone in the building. As a result of this shared danger, we all share the responsibility to monitor each other. We each have a responsibility to step up and question anyone using a machine in a way we feel is unsafe. This includes questioning the operator about the materials they are working with.
 

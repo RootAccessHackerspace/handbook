@@ -1,5 +1,4 @@
-General Rules
-=============
+# General Rules
 
 ## 0. Don't be the reason for making a new rule.
 
