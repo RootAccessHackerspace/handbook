@@ -26,18 +26,6 @@ Members must also make every effort to ensure tools are not damaged in their use
 
 Root Access exists because of memberships; if members don't pay their dues, we don't exist. Membership dues are expected to be paid in full, on time, each month. If you're having trouble or need an extension, let us know and we can work something out.
 
-## 6. Members must abide.
-
-We try to be a respectful group of grown-ups because every rule means more administrative overhead for our leadership and volunteers. More overhead means less time to be makers. Less time to be makers makes us cranky.
-
-Every member is required to sign our {download}`Member Handbook Acknowledgement </_static/Member-Handbook-Acknowledgement.pdf>`, stating that this handbook has been provided to you and that you agree to abide by the rules and guidelines therein.
-
-## 7. Release of Liability
-
-Members are expected to know the risks of the tools they're using and to not use anything they haven't been trained on. Additionally use of all such equipment is at the members own risk and they agree not to hold Root Access or any other members, instructors, directors or officers liable for injury or damage caused by using such equipment.
-
-Members and their guests are required to sign our {download}`Liability Waiver </_static/Liability-Waiver.pdf>`.
-
 ---
 
 Singular, repeated, or flagrant violations of these rules may result in consequences including fines, temporary suspension of membersip, or permanent expulsion from the hackerspace, depending on the severity of the violation and at the discression of Root Access leadership. Any member who is suspended or expelled for rules violations will not receive a refund for unused membership time. Any person expelled from a class for rules violations will not receive a refund on class fees.

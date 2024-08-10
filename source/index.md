@@ -7,7 +7,7 @@
 
 ---
 
-# Member Handbook
+# Root Access Policy Handbook
 
 ```bash
 user@hackerspace:~$ man rootaccess
@@ -15,7 +15,7 @@ user@hackerspace:~$ man rootaccess
 
 ## Welcome to the hackerspace!
 
-We're thrilled to have you join our community! Our mission is to provide education and practical experience in all sorts of making and promote the same in the community. We aim to provide a hackerspace that serves all experience levels from hobbyists to professionals.
+We're thrilled to have you join our community! Our mission is to provide education and practical experience in all sorts of making and promote the same in the community. We aim to provide a hackerspace that serves all experience levels from beginners to hobbyists to experienced professionals.
 
 Our goal is to help you develop your skills and give you a space and tools to express them, while building a community that fosters a culture of inclusiveness and collaboration.
 
