@@ -32,7 +32,7 @@ The easiest way to support Root Access! This is generally for folks who need lim
 Membership is open to anyone age 18 and over, and the process for joining is just a few steps:
 
 * **Step 1: [Create your account](https://rootaccess.org/account/signup/).** The first thing you'll need to do is create your account on rootaccess.org. If you already have an account, you can simply [log in](https://rootaccess.org/account/login/).
-* **Step 2: [Handle some paperwork](https://rootaccess.org/account/paperwork/).** Next, you'll need to sign the {download}`Community Participation Agreement and Waiver </_static/Community-Participation-Agreement-and-Waiver.pdf>`. We'll email you a link where you can digitally sign the agreement. All members need to sign this document as part of the onboarding process.
+* **Step 2: [Handle some paperwork](https://rootaccess.org/account/paperwork/).** Next, you'll need to sign the {download}`Community Participation Agreement and Waiver </_static/Community-Participation-Agreement-and-Waiver.pdf>`. We'll email you a link where you can digitally sign the agreement. All members need to sign this document in order to use the tools and equipment at the space.
 * **Step 3: [Add your payment details](https://rootaccess.org/account/payment/).** Finally, we'll need a way to charge you for membership or class fees, so be sure to add your payment information. We use Stripe for our payment processing, and your card details are never sent to our system.
 * **Step 4: [Select your membership level](https://rootaccess.org/account/membership/).** Grab the membership that makes the most sense for you, and we'll see you down at the space!
 
