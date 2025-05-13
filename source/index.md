@@ -104,6 +104,7 @@ policies/conduct
 policies/classes
 policies/photography
 policies/privacy
+policies/alcohol-cannabis-policy
 ```
 
 ```{toctree}
