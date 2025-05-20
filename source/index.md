@@ -101,6 +101,7 @@ membership
 
 policies/rules
 policies/conduct
+policies/lockers
 policies/classes
 policies/photography
 policies/privacy
