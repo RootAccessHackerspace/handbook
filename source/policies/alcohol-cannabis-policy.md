@@ -51,7 +51,7 @@ Root Access aims to handle issues with care and fairness. Consequences for misus
 Root Access allows the consumption, informal sharing, and storage of member-provided alcohol, including use of the community refrigerator and kegerator. This is considered a form of BYOB and must follow these clear boundaries:
 
 - All use must remain **low-key, non-commercial**, and **restricted to individuals 21 and over**.
-- Alcohol should **never be advertised or treated as a perk** of membership or event attendance.
+- **Alcohol use in the space is a revokable privilege** and should never be treated as a perk of membership or event attendance.
 - **Label anything that's not meant to be shared** by putting your name on it. Unlabeled alcohol may be assumed to be shared—**when in doubt, ask first**.
 - Root Access is **not responsible** for any personal alcohol stored on-site.
 
