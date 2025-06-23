@@ -6,7 +6,7 @@ Root Access is first and foremost a community hackerspace and makerspace, and we
 
 To that end, we allow the responsible use of alcohol and cannabis on-site, provided that such use complies with California law and Root Access policies, including (but not limited to) the {doc}`/safety/guidelines` and {doc}`/policies/conduct`.
 
-_**tl;dr — Enjoy Responsibly.** That’s the rule. The rest of this policy explains how we support that expectation and keep the space safe for everyone._
+_**tl;dr — Enjoy Responsibly.** That's the rule. The rest of this policy explains how we support that expectation and keep the space safe for everyone._
 
 ## Legal & Age Restrictions
 

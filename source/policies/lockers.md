@@ -34,5 +34,5 @@ Here's what you need to know if you cancel your locker rental:
 
 ### Fees
 
-- **Locker Clearing Fee:** $10 — if staff have to empty your locker after cancellation.
-- **Lock Cutting Fee:** $10 — if staff have to cut your lock to reclaim the locker.
+- **Locker Clearing Fee:** $10 — if we have to empty your locker after cancellation.
+- **Lock Cutting Fee:** $10 — if we have to cut your lock to reclaim the locker.
