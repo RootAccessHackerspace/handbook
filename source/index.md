@@ -29,59 +29,51 @@ Root Access is a community that runs a hackerspace. You buy a monthly membership
 
 This handbook describes policies and procedures that keep the hackerspace humming along. The core of this is simply safety and sharing. We want the members to be safe and to share what we have in a way that is equitable and sustainable.
 
-### Check the Wiki
-
-⮡ [rootaccess.org/wiki](https://rootaccess.org/wiki/)
+```{admonition} When in doubt, check the wiki
+:class: note
 
 The wiki is our collective knowledgebase for what's at Root Access and how to use it, along with other ancillary information about the space. It is about fabrication and making and a bit of hacking, and covers tools, techniques, materials, safety, settings, and sources.
 
 If you ever have a question about something in the space or how to do something, checking the wiki should be your first step.
 
-## Contact Us
-
-Website
-   : rootaccess.org
-
-Address
-   : [1476 N. Van Ness Ave, Fresno, CA 93728](https://goo.gl/maps/97driG8z3G22)
-
-General Inquiries
-   : info@rootaccess.org
-
-Executive Director
-   : Derek Payton &lt;[derek@rootaccess.org](mailto:derek@rootaccess.org)&gt;
-
-Board of Directors
-   : board@rootaccess.org
-
-Find us online!
----------------
-
-Facebook
-   : facebook.com/RootAccessHackerspace
-
-Github
-   : github.com/RootAccessHackerspace
-
-Instagram
-   : instagram.com/RootAccessHackerspace
-
-Meetup
-   : meetup.com/rootaccess
-
-TikTok
-   : tiktok.com/@rootaccesshackerspace
-
-Twitter
-   : twitter.com/RootAccessCA
-
-Yelp
-   : yelp.com/biz/root-access-hackerspace-fresno
+**⮡ [rootaccess.org/wiki](https://rootaccess.org/wiki/)**
+```
 
 ---
 
-Colophon
---------
+## Contact Information
+
+```{list-table}
+:widths: 30 70
+:header-rows: 0
+
+* - **Website**
+  - rootaccess.org
+* - **Address**
+  - [1476 N. Van Ness Ave, Fresno, CA 93728](https://goo.gl/maps/97driG8z3G22)
+* - **General Inquiries**
+  - info@rootaccess.org
+* - **Executive Director**
+  - Derek Payton — derek@rootaccess.org
+* - **Board of Directors**
+  - board@rootaccess.org
+```
+
+### Find us online!
+
+```{hlist}
+:columns: 3
+
+- [🦋 Bluesky](https://bsky.app/profile/rootaccess.org)
+- [📷 Instagram](https://instagram.com/RootAccessHackerspace)
+- [👍🏻 Facebook](https://facebook.com/RootAccessHackerspace)
+- [💬 Discord](https://rootaccess.org/discord)
+- [💻 Github](https://github.com/RootAccessHackerspace)
+```
+
+---
+
+## Colophon
 
 This handbook is built with [Sphinx](https://www.sphinx-doc.org). We're using the [Read The Docs theme](https://sphinx-rtd-theme.readthedocs.io/en/stable/) and [MyST](https://myst-parser.readthedocs.io/en/latest/) for markdown parsing. Every commit triggers a [Github Action](https://github.com/features/actions) to build and deploy the handbook to [Github Pages](https://pages.github.com/).
 
