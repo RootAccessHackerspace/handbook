@@ -100,6 +100,7 @@ membership
 :hidden:
 
 policies/rules
+policies/guests
 policies/conduct
 policies/lockers
 policies/classes
