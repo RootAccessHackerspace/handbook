@@ -14,12 +14,14 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+import datetime
+
 
 # -- Project information -----------------------------------------------------
 
 project = 'Root Access Handbook'
-copyright = '2021, Root Access'
-author = 'Root Access'
+copyright = f'{datetime.date.today().year}, Root Access Hackerspace'
+author = 'Root Access Hackerspace'
 
 
 # -- General configuration ---------------------------------------------------
