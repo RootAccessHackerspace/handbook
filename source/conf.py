@@ -71,6 +71,8 @@ html_theme_options = {
     'logo_only': True,
 }
 
+html_show_sphinx = False
+
 html_logo = '_static/img/rootaccess-logo-white.svg'
 
 html_title = project
